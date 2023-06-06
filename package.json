@@ -1,6 +1,6 @@
 {
   "name": "@laurysva/my-calculator",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "package for calculating 2 numbers",
   "main": "index.js",
   "scripts": {

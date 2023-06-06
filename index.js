@@ -20,6 +20,11 @@ function divide(a, b) {
   logger(`Result is: ${res}`);
 }
 
+function module(a, b) {
+  const res = a % b;
+  logger(`Result is: ${res}`);
+}
+
 module.exports = {
   add,
   subtract,
